@@ -2,7 +2,7 @@
 name = "tektronixsg"
 description = "Interface for Tektronix signal generators."
 dynamic = ["version"]
-readme = "README.md"
+readme = "README.rst"
 authors = [
     {name = "Kevin Koch", email = "kevink2@mail.uni-paderborn.de"},
 ]
